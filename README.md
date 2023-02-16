@@ -20,7 +20,7 @@ Pronto assim você está devidamente logado no Git com sua Conta GitHub. Agora, 
 o seguinte comando para clonar o mesmo:
 
 ```
-clone <link do repositório>
+git clone <link do repositório>
 ```
 
 Assim, será criada automáticamente uma pasta com o nome e todos os arquivos contidos no repositório. Agora é só abrir a sua IDAE e testar as anotações para 
