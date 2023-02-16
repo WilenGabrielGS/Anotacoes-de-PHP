@@ -9,7 +9,7 @@ Não se preocupe, as anotações estão todas comentadas para que o leitor tenha
 Para clonar o repositório das anotações, certifique-se de que você tem o Git baixado no seu computador. Caso não tenha, baixe e instale através do site:
 https://git-scm.com/download/win.<br>
 
-Agora que você tem o Git instalado no seu PC, faça o login na sua conta do GitHub utilizando os comandos:
+Agora que você tem o Git instalado no seu PC, abra o terminal do windows ou o "Git CMD" faça o login na sua conta do GitHub utilizando os comandos:
 
 ```
 git config --global user.name "<nome de usuário>"
