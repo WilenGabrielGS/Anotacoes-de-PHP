@@ -4,7 +4,7 @@ Bem vindo às minhas anotações! <br>
 Este repositório contém todas as aulas que eu fiz de PHP até o momento. Para ter acesso aos arquivos basta clonar o repositório e usá-los na IDAE que desejar.<br>
 Não se preocupe, as anotações estão todas comentadas para que o leitor tenha um bom entendimento do código.
 
-#clonando o repositório
+<h1>clonando o repositório</h1>
 
 Para clonar o repositório das anotações, certifique-se de que você tem o Git baixado no seu computador. Caso não tenha, baixe e instale através do site:
 https://git-scm.com/download/win.<br>
